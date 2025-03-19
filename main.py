@@ -18,6 +18,3 @@ print("this is 3")
 print("this i sne")
 
 print("ths")
-
-
-print("this is the new comitvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv")
